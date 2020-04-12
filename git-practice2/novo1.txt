@@ -1,0 +1,1 @@
+Drugi folder, lokal username i email. Subfolder git inita, vidit kaj bu u drugom subfolderu sa drugim local, jel bu povezalo sa top git init direktorijem ili svaki sub zasebno iako je samo top initan.
